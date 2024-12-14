@@ -1,0 +1,7 @@
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\obj\Debug\Proje1_YapaySinirAglari.csproj.AssemblyReference.cache
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\obj\Debug\Proje1_YapaySinirAglari.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\bin\Debug\Proje1_YapaySinirAglari.exe.config
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\bin\Debug\Proje1_YapaySinirAglari.exe
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\bin\Debug\Proje1_YapaySinirAglari.pdb
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\obj\Debug\Proje1_YapaySinirAglari.exe
+C:\Users\Muhammed\visualStudio\Proje1_YapaySinirAglari\Proje1_YapaySinirAglari\obj\Debug\Proje1_YapaySinirAglari.pdb
