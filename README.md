@@ -1,2 +1,13 @@
-# ArtificialNeuralNetworkApplication
- An application designed to create artificial neural network models using training data for predictive analysis. The model performance is evaluated using the Mean Squared Error (MSE) method, offering insights into data trends and accuracy.
+# Artificial Neural Network Application (Yapay Sinir Ağı Uygulaması)
+
+## Proje Açıklaması
+Bu proje, eğitim verileriyle yapay sinir ağı modelleri oluşturarak veri tahmini yapan bir sistemdir. Model performansını artırmak için verileri analiz eder ve hata oranını değerlendirmek için **Ortalama Kare Hatası (MSE)** yöntemi kullanılmıştır.
+
+## Kullanılan Teknolojiler
+- **Programlama Dili:** C#  
+- **IDE:** Visual Studio  
+
+## Özellikler
+- Yapay Sinir Ağı Modeli Geliştirme  
+- Veri Tahmini ve Performans Değerlendirme  
+- Hata Analizi  
